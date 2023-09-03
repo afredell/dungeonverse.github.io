@@ -1,0 +1,14 @@
+Alston the Shopkeep - Gnome genral store owner
+Banker Goblin - in Newharbor
+Father Benedictus - Head elf preist in Newharbor, raised Zariantth
+Gromak - Orc warrior traveling west party 1
+Throgmar - Dwarf blacksmith traveling west party 1
+Old Fisherman - Old human outside of lumberlake
+Ferryman - old human man who runs a raft
+Ear Orc - Huge Orc who beat Mickey
+Bandit 2 - Escaped
+Dr. Moose - spell salesman wagon
+
+
+new reciever - 5 wood, 5 iron, 15 bits
+special abilities

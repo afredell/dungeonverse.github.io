@@ -1,0 +1,88 @@
+body {
+	font-family: 'Arial', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #E5EEF6; /* Light gray-blue background */
+}
+
+header {
+	background-color: #222;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+nav {
+	margin-bottom: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	margin: 20px;
+}
+
+.npc-profile {
+	display: flex;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.npc-details {
+	display: flex;
+}
+
+.npc-image {
+	margin-right: 20px;
+}
+
+.npc-image img {
+	max-width: 200px;
+	border: 5px solid #fff;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.npc-personal-info {
+	flex-grow: 1;
+}
+
+section {
+	margin-bottom: 30px;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+footer {
+	background-color: #222;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}

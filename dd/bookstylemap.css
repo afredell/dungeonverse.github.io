@@ -1,0 +1,72 @@
+/* Define the font family and size for the entire website */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background-color: #D2B48C;
+}
+
+/* Set a background image for the header, and adjust the height and padding */
+header {
+  background-image: url('dd_guide_banner.png');
+  background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fffbe0;
+  height: 300px;
+  padding: 20px;
+  color: #D2B48C;
+}
+
+/* Style the links in the navigation bar */
+nav a {
+  display: inline-block;
+  padding: 10px;
+  margin: 0 10px;
+  color: gray;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+nav a:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Adjust the padding and margin for the main section */
+main {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+/* Style the welcome message and introductory text */
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Add a border and box shadow to images in the main section */
+img {
+  border: 5px solid #fff;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.centered {
+  display: block;
+  margin: 0 auto;
+  max-width:1000px; /* set the maximum width of the image */
+  height: auto; /* set the height to auto to maintain aspect ratio */
+}
+
+/* Style the footer */
+footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
